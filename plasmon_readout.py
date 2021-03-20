@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Adrian Sinclair
+@authors: Adrian Sinclair, Jon Hoh
 Initial template for photo-mixer readout on ROACH2 system with 512MHz digizers
 
 """
